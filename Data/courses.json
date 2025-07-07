@@ -1,0 +1,53 @@
+[
+  {"code": "CSE101",
+   "name": "Introduction to Programming",
+   "units": 3,
+   "allowed_times": ["Monday 8-10", "Wednesday 10-12"],
+   "professor": "P1"
+  },
+
+  {"code": "CSE102",
+   "name": "Data Structures",
+   "units": 3,
+   "allowed_times": ["Tuesday 12-14", "Thursday 14-16"], 
+   "professor": "P2"
+  },
+  
+  {"code": "CSE103",
+   "name": "Algorithms Design",
+   "units": 3,
+   "allowed_times": ["Monday 14-16", "Friday 8-10"],
+   "professor": "P3"
+  },
+
+  {"code": "CSE104",
+   "name": "Database Systems",
+   "units": 3,
+   "allowed_times": ["Wednesday 12-14", "Friday 10-12"],
+   "professor": "P4"
+  },
+
+  {"code": "CSE105",
+   "name": "Operating Systems",
+   "units": 3,
+   "allowed_times": ["Tuesday 10-12", "Thursday 8-10"],
+   "professor": "P5"
+  },
+
+  {"code": "CSE106", "name": "Computer Networks", "units": 3, "allowed_times": ["Monday 8-10", "Wednesday 8-10"], "professor": "P6"},
+  {"code": "CSE107", "name": "Software Engineering", "units": 3, "allowed_times": ["Tuesday 14-16", "Thursday 12-14"], "professor": "P7"},
+  {"code": "CSE108", "name": "Machine Learning", "units": 3, "allowed_times": ["Monday 10-12", "Wednesday 14-16"], "professor": "P8"},
+  {"code": "CSE109", "name": "Artificial Intelligence", "units": 3, "allowed_times": ["Tuesday 8-10", "Thursday 10-12"], "professor": "P9"},
+  {"code": "CSE110", "name": "Computer Graphics", "units": 3, "allowed_times": ["Wednesday 16-18", "Friday 14-16"], "professor": "P10"},
+
+  {"code": "CSE111", "name": "Human-Computer Interaction", "units": 3, "allowed_times": ["Monday 16-18", "Thursday 16-18"], "professor": "P1"},
+  {"code": "CSE112", "name": "Compiler Design", "units": 3, "allowed_times": ["Tuesday 16-18", "Friday 16-18"], "professor": "P2"},
+  {"code": "CSE113", "name": "Parallel Computing", "units": 3, "allowed_times": ["Wednesday 8-10", "Friday 12-14"], "professor": "P3"},
+  {"code": "CSE114", "name": "Embedded Systems", "units": 3, "allowed_times": ["Monday 12-14", "Thursday 14-16"], "professor": "P4"},
+  {"code": "CSE115", "name": "Cloud Computing", "units": 3, "allowed_times": ["Tuesday 10-12", "Friday 10-12"], "professor": "P5"},
+  {"code": "CSE116", "name": "Cybersecurity", "units": 3, "allowed_times": ["Wednesday 14-16", "Friday 8-10"], "professor": "P6"},
+  {"code": "CSE117", "name": "Natural Language Processing", "units": 3, "allowed_times": ["Monday 8-10", "Thursday 12-14"], "professor": "P7"},
+  {"code": "CSE118", "name": "Deep Learning", "units": 3, "allowed_times": ["Tuesday 14-16", "Friday 16-18"], "professor": "P8"},
+  {"code": "CSE119", "name": "Bioinformatics", "units": 3, "allowed_times": ["Wednesday 10-12", "Thursday 8-10"], "professor": "P9"},
+  {"code": "CSE120", "name": "Quantum Computing", "units": 3, "allowed_times": ["Monday 14-16", "Friday 12-14"], "professor": "P10"}
+]

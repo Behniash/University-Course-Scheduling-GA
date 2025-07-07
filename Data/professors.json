@@ -1,0 +1,13 @@
+
+[
+  {"code": "P1", "name": "Dr. Smith", "available_times": ["Monday 8-10", "Wednesday 10-12", "Thursday 16-18"], "courses": ["CSE101", "CSE111", "CSE121", "CSE131", "CSE141"]},
+  {"code": "P2", "name": "Dr. Johnson", "available_times": ["Tuesday 12-14", "Thursday 14-16", "Friday 16-18"], "courses": ["CSE102", "CSE112", "CSE122", "CSE132", "CSE142"]},
+  {"code": "P3", "name": "Dr. Williams", "available_times": ["Monday 14-16", "Friday 8-10", "Wednesday 8-10"], "courses": ["CSE103", "CSE113", "CSE123", "CSE133", "CSE143"]},
+  {"code": "P4", "name": "Dr. Brown", "available_times": ["Wednesday 12-14", "Friday 10-12", "Monday 12-14"], "courses": ["CSE104", "CSE114", "CSE124", "CSE134", "CSE144"]},
+  {"code": "P5", "name": "Dr. Jones", "available_times": ["Tuesday 10-12", "Thursday 8-10", "Friday 10-12"], "courses": ["CSE105", "CSE115", "CSE125", "CSE135", "CSE145"]},
+  {"code": "P6", "name": "Dr. Miller", "available_times": ["Monday 8-10", "Wednesday 8-10", "Friday 8-10"], "courses": ["CSE106", "CSE116", "CSE126", "CSE136", "CSE146"]},
+  {"code": "P7", "name": "Dr. Davis", "available_times": ["Tuesday 14-16", "Thursday 12-14", "Monday 8-10"], "courses": ["CSE107", "CSE117", "CSE127", "CSE137", "CSE147"]},
+  {"code": "P8", "name": "Dr. Garcia", "available_times": ["Monday 10-12", "Wednesday 14-16", "Friday 16-18"], "courses": ["CSE108", "CSE118", "CSE128", "CSE138", "CSE148"]},
+  {"code": "P9", "name": "Dr. Martinez", "available_times": ["Tuesday 8-10", "Thursday 10-12", "Wednesday 10-12"], "courses": ["CSE109", "CSE119", "CSE129", "CSE139", "CSE149"]},
+  {"code": "P10", "name": "Dr. Robinson", "available_times": ["Wednesday 16-18", "Friday 14-16", "Monday 14-16"], "courses": ["CSE110", "CSE120", "CSE130", "CSE140", "CSE150"]}
+]
