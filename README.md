@@ -12,25 +12,6 @@ A Python implementation of a Genetic Algorithm (GA) to solve the university cour
  Includes visualization of scheduling results  
 
 ---
-
-##  Project Structure
-university-course-scheduling-GA/
-├── src/                     # Source code
-│   ├── genetic_algorithm.py
-│   ├── utils.py
-│   ├── timetable_model.py
-│   ├── visualization.py
-├── data/                    # Input datasets
-│   ├── courses.json
-│   ├── professors.json
-│   ├── classes.json
-├── notebooks/               # Jupyter notebooks for testing & visualization
-│   ├── main.ipynb
-├── main.py                   # Generated schedules and plots
-├── README.md                 # Project documentation
-├── requirements.txt          # Python dependencies
-
----
 ## Algorithm Overview
 
 The Genetic Algorithm (GA) workflow:
