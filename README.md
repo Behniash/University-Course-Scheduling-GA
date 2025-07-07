@@ -21,16 +21,4 @@ The Genetic Algorithm (GA) workflow:
  4. Crossover & Mutation: Combine and slightly alter schedules to produce new generations.
  5. Termination: Repeat until an optimal or acceptable schedule is found.
 
----
-
-##  Requirements
-- Python >= 3.8
-- numpy
-- pandas
-- matplotlib
-- tqdm
-- 
-Install dependencies:
-```bash
-pip install -r requirements.txt
 
